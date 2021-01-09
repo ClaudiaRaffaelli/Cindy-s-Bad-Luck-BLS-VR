@@ -19,7 +19,7 @@ The correct behaviors in all these cases are taught through theoretical sections
 To view some Gameplay of the game, click on the video below:
 </p>
 <p align="center">
-  <a href="https://youtu.be/3GcsgZTIsxM"><img src="https://github.com/ClaudiaRaffaelli/Cindy-s-Bad-Luck-BLS-VR/blob/master/embed_gameplay.png?raw=true" alt="Cindy's Bad Luck gameplay" width="400" ></a>
+  <a href="https://youtu.be/S_xC_7udQrA"><img src="https://github.com/ClaudiaRaffaelli/Cindy-s-Bad-Luck-BLS-VR/blob/master/embed_gameplay.png?raw=true" alt="Cindy's Bad Luck gameplay" width="400" ></a>
 </p>
 
 ## Authors
