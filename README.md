@@ -1,7 +1,7 @@
 # Cindy's Bad Luck - a Basic Life Support simulator VR
-
+<p align="center">
 Click below to watch the Trailer of the game on YouTube:
-
+</p>
 <p align="center">
   <a href="https://youtu.be/3GcsgZTIsxM"><img src="https://github.com/ClaudiaRaffaelli/Cindy-s-Bad-Luck-BLS-VR/blob/master/embed.png?raw=true" alt="Cindy's Bad Luck trailer"></a>
 </p>
