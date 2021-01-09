@@ -6,7 +6,7 @@ Click below to watch the Trailer of the game on YouTube:
 
 
 ## About the game
-Cindy's Bad Luck - a Basic Life Support simulator is a VR game developed using Unity for Oculus Quest 2. It has the aim to teach, in a fun way the basic principles of first aid through a multi-level system following the story of the unlucky Cindy. Inside the game you will find a tutorial explaining the main interactions and the dynamics of the game. There are also four levels that can be unlocked by overcoming the previous level. The scenes contained in the levels concern cases of:
+Cindy's Bad Luck - a Basic Life Support simulator is a VR game developed using Unity for Oculus Quest 2. It has the aim to teach, in a fun way the basic principles of first aid through a multi-level system, following the story of the Unlucky Cindy. Inside the game you will find a tutorial explaining the main interactions and the dynamics of the game. There are also four levels that can be unlocked by overcoming the previous level. The scenes contained in the levels concern cases of:
 - Burns
 - Bleedings
 - Car accidents
