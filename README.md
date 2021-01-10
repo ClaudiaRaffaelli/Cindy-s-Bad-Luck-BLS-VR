@@ -1,8 +1,8 @@
 # Cindy's Bad Luck - a Basic Life Support simulator VR
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ClaudiaRaffaelli/Cindy-s-Bad-Luck-BLS-VR)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ClaudiaRaffaelli/Cindy-s-Bad-Luck-BLS-VR)
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/ClaudiaRaffaelli/Cindy-s-Bad-Luck-BLS-VR)
+
 <p align="center">
 Click below to watch the Trailer of the game on YouTube:
 </p>
