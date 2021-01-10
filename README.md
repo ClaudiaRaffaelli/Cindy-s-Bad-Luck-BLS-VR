@@ -26,6 +26,8 @@ To view some Gameplay of the game, click on the video below:
   <a href="https://youtu.be/S_xC_7udQrA"><img src="https://github.com/ClaudiaRaffaelli/Cindy-s-Bad-Luck-BLS-VR/blob/master/embed_gameplay.png?raw=true" alt="Cindy's Bad Luck gameplay" width="400" ></a>
 </p>
 
+If you're only interested to the ```.apk``` file to play the game just check out the ```Releases``` section on this page to download the latest one. If you want to know more about the implementation you can have a look at the ```Script``` folder.
+
 ## Authors
 - [Abdullah Chaudhry](https://github.com/chabdullah)
 - [Claudia Raffaelli](https://github.com/ClaudiaRaffaelli)
